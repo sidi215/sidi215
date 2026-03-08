@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Sidi%20Med%20Saadna&fontSize=52&fontColor=a8d5b5&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=58&descColor=6aab7e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=180&section=header&text=Sidi%20Med%20Saadna&fontSize=52&fontColor=a8d5b5&fontAlignY=45&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%2B+Django;AI+%26+Machine+Learning+Builder;IoT+%26+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration;Based+in+Mauritania+%F0%9F%87%B2%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+MERN+%2B+Django;AI+%26+Machine+Learning+Builder;IoT+%26+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration;Based+in+Mauritania" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sidi215-0d1117?style=for-the-badge&logo=github&logoColor=a8d5b5)](https://github.com/sidi215)
-[![Email](https://img.shields.io/badge/Email-sidimedsaadna7%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=a8d5b5)](mailto:sidimedsaadna7@gmail.com)
-[![School](https://img.shields.io/badge/SupNum-Mauritania-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2IDktNC45MVYxN2gyVjlMMTIgM3ptMCAxNi41TDMgMTQuNFYxOGw5IDQuNSA5LTQuNXYtMy42TDEyIDE5LjV6Ii8+PC9zdmc+&logoColor=a8d5b5)](https://supnum.mr)
+[![Email](https://img.shields.io/badge/Email-sidimedsaadna8%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=a8d5b5)](mailto:sidimedsaadna8@gmail.com)
+[![School](https://img.shields.io/badge/SupNum-Mauritania-0d1117?style=for-the-badge&logoColor=a8d5b5)](https://supnum.mr)
 
 </div>
 
@@ -21,11 +21,11 @@
 ```javascript
 const sidiMed = {
   name:       "Sidi Med Saadna",
-  school:     "SupNum — Nouakchott, Mauritania 🇲🇷",
+  school:     "SupNum — Nouakchott, Mauritania",
   level:      "Mid-level Software Engineer",
   focus:      ["Full-Stack Web", "AI / ML", "IoT & Embedded Systems"],
-  status:     "🟢 Open to work — Freelance · Internship · Collaboration",
-  languages:  ["Arabic 🇲🇷", "French 🇫🇷", "English 🇬🇧"],
+  status:     "Open to work — Freelance · Internship · Collaboration",
+  languages:  ["Arabic", "French", "English"],
   motto:      "Build things that matter."
 };
 ```
@@ -54,19 +54,19 @@ const sidiMed = {
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 
 ### 🔌 IoT & Systems
-![C++](https://img.shields.io/badge/C%2B%2B-1a1a1a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/C%2B%2B-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Arduino](https://img.shields.io/badge/Arduino-1a1a1a?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1a1a1a?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1a1a1a?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
 
 ### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Render](https://img.shields.io/badge/Render-1a1a1a?style=for-the-badge&logo=render&logoColor=46E3B7)
 ![Netlify](https://img.shields.io/badge/Netlify-1a1a1a?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Railway](https://img.shields.io/badge/Railway-1a1a1a?style=for-the-badge&logo=railway&logoColor=white)
@@ -86,9 +86,9 @@ const sidiMed = {
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **🌿 IHSAN Platform** | Transparent charity platform with blockchain, real-time tracking and impact proofs — SupNum S3C Challenge | React · Node.js · PostgreSQL · Polygon · Cloudinary | [Repo](https://github.com/LeminEly/IHSAN_PLATFORM/tree/by_sidimed) · [Live](https://ihsan-platform-supnum.netlify.app) |
-| **🌾 BetterAgri** | Smart agricultural marketplace with AI-powered crop disease diagnosis using MobileNetV2 | Next.js · Django · FastAPI · TensorFlow · Docker | [Repo](https://github.com/sidi215/PI-S3) |
-| **🌦 WeatherApp** | Real-time weather app with forecasts and location-based alerts | React · OpenWeatherMap API | [Repo](https://github.com/sidi215/WeatherApp) |
+| **IHSAN Platform** | Transparent charity platform with blockchain and real-time impact proofs — SupNum S3C Challenge | React · Node.js · PostgreSQL · Polygon | [Repo](https://github.com/LeminEly/IHSAN_PLATFORM/tree/by_sidimed) · [Live](https://ihsan-platform-supnum.netlify.app) |
+| **BetterAgri** | Smart agricultural marketplace with AI crop disease diagnosis using MobileNetV2 | Next.js · Django · FastAPI · TensorFlow · Docker | [Repo](https://github.com/sidi215/PI-S3) |
+| **WeatherApp** | Real-time weather app with forecasts and location-based alerts | React · OpenWeatherMap API | [Repo](https://github.com/sidi215/WeatherApp) |
 
 </div>
 
@@ -122,7 +122,7 @@ const sidiMed = {
 | 🤝 **Collaboration** | Open-source projects, hackathons, startups |
 | 🌍 **Remote** | Available to work remotely worldwide |
 
-**📧** sidimedsaadna8@gmail.com
+**Email:** sidimedsaadna8@gmail.com
 
 </div>
 
