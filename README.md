@@ -1,11 +1,9 @@
 <div align="center">
 
-# 👋 Sidi Med Saadna
-
-### Software Engineer · AI & IoT Enthusiast · Mauritania 🇲🇷
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Sidi%20Med%20Saadna&fontSize=52&fontColor=a8d5b5&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20and%20IoT%20Enthusiast&descAlignY=58&descColor=6aab7e&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+MERN+%2B+Django;AI+%26+Machine+Learning+Builder;IoT+%26+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+MERN+%2B+Django;AI+and+Machine+Learning+Builder;IoT+and+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -100,11 +98,12 @@ const sidiMed = {
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidi215&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/sidi215)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sidi215&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidi215&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidi215&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/sidi215)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sidi215&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=sidi215&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -132,5 +131,7 @@ const sidiMed = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sidi215&color=2d6a4f&style=for-the-badge&label=Profile+Views)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a3a2a,100:0d1117&height=120&section=footer"/>
 
 </div>
