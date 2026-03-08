@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=180&section=header&text=Sidi%20Med%20Saadna&fontSize=52&fontColor=a8d5b5&fontAlignY=45&animation=fadeIn"/>
+# 👋 Sidi Med Saadna
+
+### Software Engineer · AI & IoT Enthusiast · Mauritania 🇲🇷
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+MERN+%2B+Django;AI+%26+Machine+Learning+Builder;IoT+%26+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration;Based+in+Mauritania" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+MERN+%2B+Django;AI+%26+Machine+Learning+Builder;IoT+%26+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sidi215-0d1117?style=for-the-badge&logo=github&logoColor=a8d5b5)](https://github.com/sidi215)
-[![Email](https://img.shields.io/badge/Email-sidimedsaadna8%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=a8d5b5)](mailto:sidimedsaadna8@gmail.com)
-[![School](https://img.shields.io/badge/SupNum-Mauritania-0d1117?style=for-the-badge&logoColor=a8d5b5)](https://supnum.mr)
+[![GitHub](https://img.shields.io/badge/GitHub-sidi215-181717?style=for-the-badge&logo=github)](https://github.com/sidi215)
+[![Email](https://img.shields.io/badge/Email-sidimedsaadna8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidimedsaadna8@gmail.com)
+[![School](https://img.shields.io/badge/SupNum-Mauritania-2d6a4f?style=for-the-badge)](https://supnum.mr)
 
 </div>
 
@@ -98,12 +100,11 @@ const sidiMed = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sidi215&show_icons=true&theme=dark&bg_color=0d1117&border_color=2d6a4f&icon_color=2d6a4f&title_color=a8d5b5&text_color=6aab7e&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidi215&layout=compact&theme=dark&bg_color=0d1117&border_color=2d6a4f&title_color=a8d5b5&text_color=6aab7e&langs_count=8" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidi215&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/sidi215)
 
-<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidi215&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/sidi215)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sidi215&theme=dark&background=0d1117&border=2d6a4f&ring=2d6a4f&fire=a8d5b5&currStreakLabel=a8d5b5&sideLabels=6aab7e&dates=6aab7e&currStreakNum=a8d5b5&sideNums=a8d5b5)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sidi215&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -122,7 +123,7 @@ const sidiMed = {
 | 🤝 **Collaboration** | Open-source projects, hackathons, startups |
 | 🌍 **Remote** | Available to work remotely worldwide |
 
-**Email:** sidimedsaadna8@gmail.com
+**📧** sidimedsaadna8@gmail.com
 
 </div>
 
@@ -131,7 +132,5 @@ const sidiMed = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sidi215&color=2d6a4f&style=for-the-badge&label=Profile+Views)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a3a2a,100:0d1117&height=120&section=footer"/>
 
 </div>
