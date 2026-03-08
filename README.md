@@ -98,11 +98,6 @@ const sidiMed = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sidi215&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidi215&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=sidi215&theme=tokyonight&hide_border=true" />
 
 </div>
