@@ -2,7 +2,7 @@
 
 # 👋 Sidi Med Saadna
 
-### Software Engineer · AI & IoT Enthusiast · Mauritania 🇲🇷
+### Software Engineer · AI & IoT & Cybersecurity Enthusiast 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+MERN+%2B+Django;AI+%26+Machine+Learning+Builder;IoT+%26+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration" alt="Typing SVG" />
