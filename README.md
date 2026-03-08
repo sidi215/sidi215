@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Sidi%20Med%20Saadna&fontSize=52&fontColor=a8d5b5&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20and%20IoT%20and%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=6aab7e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Sidi%20Med%20Saadna&fontSize=52&fontColor=a8d5b5&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20and%20IoT%20Enthusiast&descAlignY=58&descColor=6aab7e&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=2d6a4f&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+MERN+%2B+Django;AI+and+Machine+Learning+Builder;IoT+and+Embedded+Systems+Enthusiast;Open+to+Work+%7C+Freelance+%7C+Collaboration" alt="Typing SVG" />
@@ -23,7 +23,7 @@ const sidiMed = {
   name:       "Sidi Med Saadna",
   school:     "SupNum — Nouakchott, Mauritania",
   level:      "Mid-level Software Engineer",
-  focus:      ["Full-Stack Web", "AI / ML", "IoT & Embedded Systems"],
+  focus:      ["Full-Stack Web", "Mobile Dev", "AI / ML", "IoT & Embedded Systems"],
   status:     "Open to work — Freelance · Internship · Collaboration",
   languages:  ["Arabic", "French", "English"],
   motto:      "Build things that matter."
@@ -70,6 +70,10 @@ const sidiMed = {
 ![Render](https://img.shields.io/badge/Render-1a1a1a?style=for-the-badge&logo=render&logoColor=46E3B7)
 ![Netlify](https://img.shields.io/badge/Netlify-1a1a1a?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Railway](https://img.shields.io/badge/Railway-1a1a1a?style=for-the-badge&logo=railway&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 ### ⛓ Blockchain
 ![Polygon](https://img.shields.io/badge/Polygon-1a1a1a?style=for-the-badge&logo=polygon&logoColor=8247E5)
