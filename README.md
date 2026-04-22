@@ -85,13 +85,13 @@ const sidiMed = {
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **IHSAN Platform** | Transparent charity platform with blockchain and real-time impact proofs — SupNum S3C Challenge | React · Node.js · PostgreSQL · Polygon | [Repo](https://github.com/LeminEly/IHSAN_PLATFORM/tree/by_sidimed) · [Live](https://ihsan-platform-supnum.netlify.app) |
 | **BetterAgri** | Smart agricultural marketplace with AI crop disease diagnosis using MobileNetV2 | Next.js · Django · FastAPI · TensorFlow · Docker | [Repo](https://github.com/sidi215/PI-S3) |
+| **DebugLog** | Privacy-first AI log analyzer using local LLM — zero data leaves your machine. PII sanitization, auto log detection, self-learning KB | Java · Spring Boot · Python · Docker · Ollama | [Repo](https://github.com/sidi215/debuglog) |
 | **WeatherApp** | Real-time weather app with forecasts and location-based alerts | React · OpenWeatherMap API | [Repo](https://github.com/sidi215/WeatherApp) |
 
 </div>
